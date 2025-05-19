@@ -3,14 +3,14 @@
 Welcome to my GitHub corner — where creativity meets code!  
 I'm passionate about building things that not only work well but also **look good and feel intuitive**. 🚀
 
- 👀 Interests  
+## 👀 Interests  
 - 🌐  Web Development (HTML, CSS, JavaScript, React.js , Node.js ,Express.js)
 - 🎨 UI/UX Design & Prototyping  
 - 🧠 Data Structures & Algorithms 
 - 🌍 Tech for social impact, sustainable innovation & inclusive design  
 - 🧩 Problem-solving, logic building, and turning ideas into real-world solutions  
 
-  💞️ Looking to Collaborate On  
+ ## 💞️ Looking to Collaborate On  
 - 🌟 Projects that promote social good  
 - 🎓 Student community-based apps  
 - 📱 Frontend-focused apps or React-based side projects  
@@ -29,7 +29,7 @@ I'm passionate about building things that not only work well but also **look goo
 ![](https://nirzak-streak-stats.vercel.app/?user=RoshniSingh12220981&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshniSingh12220981&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 # Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Roshni0412?theme=light&font=Noto%20Sans%20Ogham)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Roshni0412?theme=radical&font=Noto%20Sans%20Ogham)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -42,9 +42,7 @@ I'm passionate about building things that not only work well but also **look goo
  📫 How to Reach Me  
 - 📩 Email: roshnisinghranjan26@gmail.com  
 - 💼 LinkedIn: [https://www.linkedin.com/in/roshni-singh-ranjan-/]  
- <img width="46" alt="progress-106c8d8956a5f08d22006a6ea911e6c3" src="https://github.com/user-attachments/assets/85f031bf-d2e5-4446-af76-05467e5f9add" />
-
-
+ 
 ⚡ Fun Fact  
 I’m the kind of person who’ll spend hours getting that **perfect button animation** — because details matter! I believe a good user experience can change the way people interact with technology. Also… I design better when there’s coffee and lo-fi beats involved ☕🎧
 
