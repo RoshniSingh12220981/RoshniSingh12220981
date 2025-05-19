@@ -4,28 +4,21 @@ Welcome to my GitHub corner — where creativity meets code!
 I'm passionate about building things that not only work well but also **look good and feel intuitive**. 🚀
 
  👀 Interests  
-- 🌐 Frontend Web Development (HTML, CSS, JavaScript, React.js)  
+- 🌐  Web Development (HTML, CSS, JavaScript, React.js , Node.js ,Express.js)
 - 🎨 UI/UX Design & Prototyping  
-- 🧠 Data Structures & Algorithms  
+- 🧠 Data Structures & Algorithms 
 - 🌍 Tech for social impact, sustainable innovation & inclusive design  
 - 🧩 Problem-solving, logic building, and turning ideas into real-world solutions  
 
- 🌱 Currently Learning  
-- ⚛️ React.js (Hooks, Routing, State Management)  
-- 📚 Core DSA topics (Arrays, Strings, Trees, Graphs, DP)  
-- 💾 Backend basics (Node.js + Express)  
-- 🐙 Open Source Contribution Basics  
+  💞️ Looking to Collaborate On  
+- 🌟 Projects that promote social good  
+- 🎓 Student community-based apps  
+- 📱 Frontend-focused apps or React-based side projects  
+- ✨ Anything exciting where I can learn and contribute creatively! 
 
 ![2024-100-lg](https://github.com/user-attachments/assets/810f783d-ecb8-46f4-8ba1-076d7cc42efe)
 ![2024-50-lg](https://github.com/user-attachments/assets/9b2c25fb-50aa-449d-adad-2c6154e73adf)
 
- 💞️ Looking to Collaborate On  
-- 🌟 Projects that promote social good  
-- 🎓 Student community-based apps  
-- 📱 Frontend-focused apps or React-based side projects  
-- ✨ Anything exciting where I can learn and contribute creatively!
-
-- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roshni-singh-ranjan-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshnisinghranjan26@gmail.com) 
 
@@ -35,6 +28,8 @@ I'm passionate about building things that not only work well but also **look goo
 ![](https://github-readme-stats.vercel.app/api?username=RoshniSingh12220981&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RoshniSingh12220981&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshniSingh12220981&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+# Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/Roshni0412?theme=light&font=Noto%20Sans%20Ogham)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
