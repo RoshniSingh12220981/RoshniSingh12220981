@@ -1,3 +1,6 @@
+![Uploading lg202505.png…]()
+![2024-100-lg](https://github.com/user-attachments/assets/810f783d-ecb8-46f4-8ba1-076d7cc42efe)
+![2024-50-lg](https://github.com/user-attachments/assets/9b2c25fb-50aa-449d-adad-2c6154e73adf)
 ## 👋 Hey there! I'm Roshni Singh
 
 Welcome to my GitHub corner — where creativity meets code!  
