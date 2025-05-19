@@ -33,7 +33,8 @@ I'm passionate about building things that not only work well but also **look goo
 ### 📫 How to Reach Me  
 - 📩 Email: roshnisinghranjan26@gmail.com  
 - 💼 LinkedIn: [https://www.linkedin.com/in/roshni-singh-ranjan-/]  
- 
+ <img width="46" alt="progress-106c8d8956a5f08d22006a6ea911e6c3" src="https://github.com/user-attachments/assets/85f031bf-d2e5-4446-af76-05467e5f9add" />
+
 
 ⚡ Fun Fact  
 I’m the kind of person who’ll spend hours getting that **perfect button animation** — because details matter! I believe a good user experience can change the way people interact with technology. Also… I design better when there’s coffee and lo-fi beats involved ☕🎧
