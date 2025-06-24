@@ -1,6 +1,5 @@
  👋 Hey there! I'm Roshni Singh Ranjan
-
-
+ 
 Welcome to my GitHub corner — where creativity meets code!  
 I'm passionate about building things that not only work well but also **look good and feel intuitive**. 🚀
 
