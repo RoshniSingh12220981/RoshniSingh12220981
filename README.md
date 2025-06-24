@@ -37,6 +37,8 @@ I'm passionate about building things that not only work well but also **look goo
 ---
 [![](https://visitcount.itsvg.in/api?id=RoshniSingh12220981&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![](https://raw.githubusercontent.com/RoshniSingh12220981/RoshniSingh12220981/output/snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
  📫 How to Reach Me  
