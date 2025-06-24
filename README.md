@@ -47,3 +47,4 @@ I'm passionate about building things that not only work well but also **look goo
 I’m the kind of person who’ll spend hours getting that **perfect button animation** — because details matter! I believe a good user experience can change the way people interact with technology. Also… I design better when there’s coffee and lo-fi beats involved ☕🎧
 
 Thanks for stopping by! Let's build something amazing together 💫
+![](http://raw.githubusercontent.com/RoshniSingh12220981/RoshniSingh1222098/output/snake.svg)
